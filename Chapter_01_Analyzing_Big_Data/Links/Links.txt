@@ -1,0 +1,11 @@
+GitHub
+https://github.com/awesome-spark/awesome-spark
+
+Apache Spark no Amazon EMR
+https://aws.amazon.com/pt/emr/features/spark/
+
+Azure Databricks
+https://azure.microsoft.com/en-in/products/databricks/
+
+Google Cloud Dataproc
+https://cloud.google.com/dataproc?hl=en
