@@ -6,3 +6,9 @@ https://spark.apache.org/downloads.html
 
 Apache Spark - A Unified engine for large-scale data analytics
 https://spark.apache.org/docs/latest/
+
+Running Spark on YARN
+https://spark.apache.org/docs/latest/running-on-yarn.html
+
+Cluster Mode Overview
+https://spark.apache.org/docs/latest/cluster-overview.html
