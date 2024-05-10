@@ -1,0 +1,23 @@
+pip3 install pyspark
+
+pip3 install pyspark[sql,ml,mllib]
+
+pyspark --master local[*]
+
+pyspark --master yarn --deploy-mode client
+
+spark
+
+spark.[\t]
+
+mkdir linkage
+cd linkage/
+curl -L -o donation.zip https://bit.ly/1Aoywaq
+unzip donation.zip
+unzip 'block_*.zip'
+
+hadoop dfs -mkdir linkage
+hadoop dfs -put block_*.csv linkage
+
+prev = spark.read.csv("linkage/block*.csv")
+prev
