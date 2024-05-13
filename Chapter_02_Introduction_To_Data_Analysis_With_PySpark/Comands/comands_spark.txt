@@ -18,6 +18,3 @@ unzip 'block_*.zip'
 
 hadoop dfs -mkdir linkage
 hadoop dfs -put block_*.csv linkage
-
-prev = spark.read.csv("linkage/block*.csv")
-prev

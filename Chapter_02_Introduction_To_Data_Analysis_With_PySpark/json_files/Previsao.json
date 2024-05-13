@@ -1,0 +1,32 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Id",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "NomeParceiro",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "NomeLoja",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ClienteCPF",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "TransacaoFilaId",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Versao",
+    "type": "STRING"
+  }
+]
