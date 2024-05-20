@@ -1,0 +1,9 @@
+Last.fm
+https://www.last.fm/
+
+Rank (linear algebra)
+https://en.wikipedia.org/wiki/Rank_(linear_algebra)
+
+Large-Scale Parallel Collaborative Filtering for the Netflix Prize
+https://dl.acm.org/doi/10.1007/978-3-540-68880-8_32
+
