@@ -7,3 +7,14 @@ https://en.wikipedia.org/wiki/Rank_(linear_algebra)
 Large-Scale Parallel Collaborative Filtering for the Netflix Prize
 https://dl.acm.org/doi/10.1007/978-3-540-68880-8_32
 
+Receiver operating characteristic
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+Receiver operating characteristic
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic
+
+Cross-validation (statistics)
+https://en.wikipedia.org/wiki/Cross-validation_(statistics)#k-fold_cross-validation
+
+Apache HBase
+https://hbase.apache.org/
