@@ -1,0 +1,5 @@
+Export pages
+https://en.wikipedia.org/wiki/Special:Export
+
+wikiextractor
+https://github.com/attardi/wikiextractor
