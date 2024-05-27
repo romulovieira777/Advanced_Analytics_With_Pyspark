@@ -1,2 +1,38 @@
 KDD Cup 1999 Data
 http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+
+The R Project for Statistical Computing
+https://www.r-project.org/
+
+SparkR (R on Spark)
+https://spark.apache.org/docs/latest/sparkr.html
+
+Homebrew
+https://brew.sh/
+
+Turn data science into business results
+https://posit.co/
+
+RStudio Desktop
+https://posit.co/download/rstudio-desktop/
+
+Spark Streaming
+https://spark.apache.org/streaming/
+
+Mahalanobis distance
+https://en.wikipedia.org/wiki/Mahalanobis_distance
+
+Cluster analysis
+https://en.wikipedia.org/wiki/Cluster_analysis#Internal_evaluation
+
+Silhouette (clustering)
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
+
+Mixture model
+https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model
+
+DBSCAN
+https://en.wikipedia.org/wiki/DBSCAN
+
+Spark Docs
+https://spark.apache.org/docs/latest/ml-clustering.html#gaussian-mixture-model-gmm
