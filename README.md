@@ -7,6 +7,6 @@
 - [Chapter 03: Recommending Music and the Audioscrobbler Dataset](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_03_Advanced_Analytics_With_Pyspark)
 - [Chapter 04: Making Predictions with Decision Trees and Decision Forest](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_04_Making_Predictions_With_Decision_Trees_And_Decision_Forest)
 - [Chapter 05: Anomaly Detction with K-means Clustering](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_05_Anomaly_Detction_With_K_Means_Clustering)
-- [Chapter 06: Undertanding Wikipedia with LDA and Spark NLP]()
+- [Chapter 06: Undertanding Wikipedia with LDA and Spark NLP](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_06_Undertanding_Wikipedia_With_LDA_And_Spark_NLP)
 
 Link to the book: [O'Reilly](https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/)
