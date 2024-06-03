@@ -3,3 +3,9 @@ https://en.wikipedia.org/wiki/Special:Export
 
 wikiextractor
 https://github.com/attardi/wikiextractor
+
+Index of /enwiki/
+https://dumps.wikimedia.org/enwiki/
+
+John Snow Labs
+https://nlp.johnsnowlabs.com/
