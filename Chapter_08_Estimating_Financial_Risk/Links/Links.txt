@@ -1,0 +1,8 @@
+Breusch–Godfrey test
+https://en.wikipedia.org/wiki/Breusch%E2%80%93Godfrey_test
+
+Evaluation of Value-at-Risk Models Using Historical Data
+https://www.newyorkfed.org/medialibrary/media/research/epr/96v02n1/9604hend.pdf
+
+Financial Economics, Fat-Tailed Distributions
+https://link.springer.com/referenceworkentry/10.1007/978-0-387-30440-3_204
