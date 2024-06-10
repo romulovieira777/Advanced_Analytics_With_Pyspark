@@ -1,0 +1,16 @@
+enum Strand {
+    Forward,
+    Reverse,
+    Independent
+}
+
+record SequenceFeature {
+    string featureId;
+    string featureType;
+    string chromosome;
+    long startCoord;
+    long endCoord;
+    Strand strand;
+    double value;
+    map<string> attributes;
+}

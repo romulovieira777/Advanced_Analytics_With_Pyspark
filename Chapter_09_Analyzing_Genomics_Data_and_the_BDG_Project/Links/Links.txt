@@ -1,0 +1,17 @@
+Genome Analysis Toolkit
+https://gatk.broadinstitute.org/hc/en-us
+
+Enconde
+https://www.encodeproject.org/
+
+MITx: Introduction to Biology - The Secret of Life
+https://www.edx.org/learn/biology/massachusetts-institute-of-technology-introduction-to-biology-the-secret-of-life
+
+Biopython
+https://biopython.org/
+
+bdg-formats
+https://github.com/bigdatagenomics/bdg-formats
+
+Adam
+https://github.com/bigdatagenomics/adam
