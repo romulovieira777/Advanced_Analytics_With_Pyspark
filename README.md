@@ -10,6 +10,6 @@
 - [Chapter 06: Undertanding Wikipedia with LDA and Spark NLP](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_06_Undertanding_Wikipedia_With_LDA_And_Spark_NLP)
 - [Chapter 07: Geospatial and Temporal Data Analysis on Taxi Trip Data](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_07_Geospatial_and_Temporal_Data_Analysis_on_Taxi_Trip_Data)
 - [Chapter 08: Estimating Financial Risk](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_08_Estimating_Financial_Risk)
-- [Chapter 09: Analyzing Genomics Data and the BDG Project]()
+- [Chapter 09: Analyzing Genomics Data and the BDG Project](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_09_Analyzing_Genomics_Data_and_the_BDG_Project)
 
 Link to the book: [O'Reilly](https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/)
