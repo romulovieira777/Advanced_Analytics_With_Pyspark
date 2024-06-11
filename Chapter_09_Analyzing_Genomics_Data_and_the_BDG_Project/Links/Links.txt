@@ -15,3 +15,24 @@ https://github.com/bigdatagenomics/bdg-formats
 
 Adam
 https://github.com/bigdatagenomics/adam
+
+TypeError: 'JavaPackage' object is not callable #2122
+https://github.com/bigdatagenomics/adam/issues/2122
+
+Gene
+http://www.genet.sickkids.on.ca/
+
+hgmd
+https://www.hgmd.cf.ac.uk/ac/index.php
+
+Dremel: Interactive Analysis of Web-Scale Datasets
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf
+
+Columnar Storage
+https://www.the-paper-trail.org/post/2013-01-30-columnar-storage/
+
+gatk
+https://github.com/broadinstitute/gatk
+
+hail
+https://github.com/hail-is/hail
