@@ -12,5 +12,6 @@
 - [Chapter 08: Estimating Financial Risk](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_08_Estimating_Financial_Risk)
 - [Chapter 09: Analyzing Genomics Data and the BDG Project](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_09_Analyzing_Genomics_Data_and_the_BDG_Project)
 - [Chapter 10: Image Similarity Detection with Deep Learning and PySpark LSH](https://github.com/romulovieira777/Advanced_Analytics_With_Pyspark/tree/main/Chapter_10_Image_Similarity_Detection_with_Deep_Learning_and_PySpark_LSH)
+- [Chapter 11: Managing the Machine Learning Lifecycle with MLflow]()
 
 Link to the book: [O'Reilly](https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/)
