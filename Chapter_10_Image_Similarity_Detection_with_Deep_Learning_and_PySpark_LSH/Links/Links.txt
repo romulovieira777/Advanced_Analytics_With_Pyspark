@@ -6,3 +6,6 @@ https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset
 
 StanfordCarsDatasetCSV
 https://github.com/BotechEngineering/StanfordCarsDatasetCSV
+
+t-SNE visualization of CNN codes
+https://cs.stanford.edu/people/karpathy/cnnembed/
