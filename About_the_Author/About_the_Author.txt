@@ -1,0 +1,10 @@
+About the Authors
+Akash Tandon is cofounder and CTO of Looppanel. Previously, he worked as a senior data engineer at Atlan.
+
+Sandy Ryza leads development of the Dagster project and is a committer on Apache Spark.
+
+Uri Laserson is founder and CTO of Patch Biosciences. Previously, he worked on big data and genomics at Cloudera.
+
+Sean Owen, a principal solutions architect focusing on machine learning and data science at Databricks, is an Apache Spark committer and PMC member.
+
+Josh Wills is a software engineer at WeaveGrid and the former head of data engineering at Slack.
