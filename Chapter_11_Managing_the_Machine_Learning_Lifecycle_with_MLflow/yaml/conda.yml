@@ -1,0 +1,7 @@
+name: decision_tree_project
+
+conda_env: conda.yml
+
+entry_points:
+  main:
+    command: "python train.py"
